@@ -1,0 +1,3 @@
+business_name,phone,business_address,business_website,campaign_id,campaign_batch,custom_field_qr_token,custom_field_postcard_sent_date,custom_field_slybroadcast_session_id,custom_field_agent_deployed
+"Example Garage Door Inc","+15865551234","123 Main St, Detroit MI 48201","https://examplegaragedoor.com","GD-METRODETROIT-001","BATCH-2026-09-01","tok_example_001","","",""
+"Second Garage Doors LLC","+15865555678","456 Oak Ave, Warren MI 48091","https://secondgaragedoors.com","GD-METRODETROIT-001","BATCH-2026-09-01","tok_example_002","","",""
